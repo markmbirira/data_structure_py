@@ -1,6 +1,9 @@
 # Card.py
 # implements card ADT description
 
+# TODO(Mark Mbirira) Change the implementation to use a
+# more memory efficient representation. Cards indexed from 0 to 51. (pg. 65)
+
 
 class Card(object):
     """A simple playing card, characterized by two components:
