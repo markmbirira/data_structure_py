@@ -1,3 +1,8 @@
+"""
+performs a binary search on an input of items.
+"""
+
+
 def search(items, target):
     """
     Searches for target in items
